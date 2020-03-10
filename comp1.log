@@ -1,0 +1,28 @@
+Harbour 3.2.0dev (r1704200801)
+Copyright (c) 1999-2016, http://harbour-project.org/
+Compiling 'h:\source\Main.prg' and generating preprocessed output to 'h:\source\Main.ppo'...
+10020010010010020030040050060010020010020010020010020030040050060070080090010001100120013001400150016001700180019002000100200Lines 5026, Functions/Procedures 9
+Generating C source output to 'H:\Source\Main.c'... Done.
+Embarcadero C++ 7.10 for Win64 Copyright (c) 2012-2015 Embarcadero Technologies, Inc.
+H:\Source\Main.c:
+Harbour 3.2.0dev (r1704200801)
+Copyright (c) 1999-2016, http://harbour-project.org/
+Compiling 'h:\source\clases\Treeitem.prg' and generating preprocessed output to 'h:\source\clases\Treeitem.ppo'...
+10020010010010020030040050060010020010020010020010020030040050060070080090010001100120013001400150016001700180019002000Lines 4696, Functions/Procedures 2
+Generating C source output to 'H:\Source\Treeitem.c'... Done.
+Embarcadero C++ 7.10 for Win64 Copyright (c) 2012-2015 Embarcadero Technologies, Inc.
+H:\Source\Treeitem.c:
+Harbour 3.2.0dev (r1704200801)
+Copyright (c) 1999-2016, http://harbour-project.org/
+Compiling 'h:\source\clases\Treelink.prg' and generating preprocessed output to 'h:\source\clases\Treelink.ppo'...
+10020010010010020030040050060010020010020010020010020030040050060070080090010001100120013001400150016001700180019002000100200Lines 4903, Functions/Procedures 10
+Generating C source output to 'H:\Source\Treelink.c'... Done.
+Embarcadero C++ 7.10 for Win64 Copyright (c) 2012-2015 Embarcadero Technologies, Inc.
+H:\Source\Treelink.c:
+Harbour 3.2.0dev (r1704200801)
+Copyright (c) 1999-2016, http://harbour-project.org/
+Compiling 'h:\source\clases\Tvitem.prg' and generating preprocessed output to 'h:\source\clases\Tvitem.ppo'...
+10020010010010020030040050060010020010020010020010020030040050060070080090010001100120013001400150016001700180019002000Lines 4698, Functions/Procedures 2
+Generating C source output to 'H:\Source\Tvitem.c'... Done.
+Embarcadero C++ 7.10 for Win64 Copyright (c) 2012-2015 Embarcadero Technologies, Inc.
+H:\Source\Tvitem.c:
